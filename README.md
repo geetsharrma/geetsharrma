@@ -4,10 +4,17 @@
 ---
 
 ### 🌟 About Me
+Hey there! I'm **Geet Sharma**, a curious and creative **B.Tech CSE student** who loves turning ideas into digital reality.  
+I believe that technology isn’t just about solving problems — it’s about creating experiences that make life smarter and simpler. 💡  
+
 - 🎯 Passionate about **AI, Automation, and Full-Stack Development**  
 - 💡 Currently exploring **Python**, **C++**, and **Web Technologies**  
-- 🧠 Love learning through real-world projects and competitions  
-- ⚡ Fun fact: I blend creativity with logic — turning ideas into code!
+- 🤖 Building an **Agentic AI Scheduling Assistant** that automates meetings using intelligent agents  
+- 🧠 Actively learning about **Machine Learning**, **Prompt Engineering**, and **Data Analytics**  
+- 💬 I enjoy collaborating on open-source and innovative college projects  
+- ⚙️ Love experimenting with **AI tools, APIs, and automation scripts**  
+- 🎨 In my free time, I design creative visuals, edit videos, and brainstorm startup ideas  
+- 🧩 Motto: “Every great project starts with curiosity — and a little bit of caffeine ☕.”
 
 ---
 
@@ -16,33 +23,42 @@
 `C++` • `Python` • `HTML` • `CSS` • `JavaScript`
 
 **Tools & Platforms:**  
-`VS Code` • `GitHub` • `Canva` • `Google Cloud`
+`VS Code` • `GitHub` • `Figma` • `Canva` • `Google Colab`
 
 **Domains of Interest:**  
 `Artificial Intelligence` • `Data Analytics` • `Automation` • `Web Development`
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Real-Time GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=geetsharrma&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=geetsharrma&theme=radical&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=geetsharrma&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- GitHub Streak -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=geetsharrma&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetsharrma&layout=compact&theme=radical&hide_border=true" />
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetsharrma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geetsharrma&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-📧 **Email:** [geetshashanksharma@gmail.com](mailto:geetshashanksharma@gmail.com)  
+📧 **Email:** [geetsharma0902@gmail.com](mailto:geetsharma0902@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/geetsharrma](https://linkedin.com/in/geetsharrma)  
 📸 **Instagram:** [@geetsharrma](https://instagram.com/geetsharrma)
 
+
 ---
 
+⭐️ *“Code. Create. Contribute. Repeat.”*
 
-
-⭐️ *“Code. Create. Contribute. Repeat.”*  
